@@ -1,5 +1,4 @@
 ignore:
-  - "test"
 
 comment:
   require_changes: true
